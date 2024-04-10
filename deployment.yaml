@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mnist-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mnist
+  template:
+    metadata:
+      labels:
+        app: mnist
+    spec:
+      containers:
+      - name: mnist
+        image: mnist
+        ports:
+        - containerPort: 5000
+      #   args:
+      #   - --model_name=mnist_model
+      #   - --model_base_path=/mnist_model
+      #   resources:
+      #     limits:
+      #       cpu: "1"
+      #       memory: 1Gi
+      #     requests:
+      #       cpu: "0.5"
+      #       memory: 500Mi
+      #   volumeMounts:
+      #   - name: model
+      #     mountPath: /mnist_model
+      # volumes:
+      #   - name: model
+      #     hostPath:
+      #       path: /
