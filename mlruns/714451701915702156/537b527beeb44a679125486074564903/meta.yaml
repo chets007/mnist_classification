@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ibm/mnist_classification/mlruns/714451701915702156/537b527beeb44a679125486074564903/artifacts
+end_time: 1712736489797
+entry_point_name: ''
+experiment_id: '714451701915702156'
+lifecycle_stage: active
+run_id: 537b527beeb44a679125486074564903
+run_name: delightful-tern-337
+run_uuid: 537b527beeb44a679125486074564903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712736428244
+status: 4
+tags: []
+user_id: ChetanAnand1

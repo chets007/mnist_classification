@@ -1,0 +1,6 @@
+tensorflow
+mlflow
+keras
+flask
+pyyaml
+numpy

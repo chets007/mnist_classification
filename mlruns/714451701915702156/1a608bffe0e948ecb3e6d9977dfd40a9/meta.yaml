@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ibm/mnist_classification/mlruns/714451701915702156/1a608bffe0e948ecb3e6d9977dfd40a9/artifacts
+end_time: 1712690211939
+entry_point_name: ''
+experiment_id: '714451701915702156'
+lifecycle_stage: active
+run_id: 1a608bffe0e948ecb3e6d9977dfd40a9
+run_name: abundant-horse-56
+run_uuid: 1a608bffe0e948ecb3e6d9977dfd40a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712690064840
+status: 3
+tags: []
+user_id: ChetanAnand1

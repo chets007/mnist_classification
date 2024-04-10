@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ibm/mnist_classification/mlruns/714451701915702156/276608e686764aab9144ec1f1f77e837/artifacts
+end_time: 1712654472645
+entry_point_name: ''
+experiment_id: '714451701915702156'
+lifecycle_stage: active
+run_id: 276608e686764aab9144ec1f1f77e837
+run_name: flawless-elk-951
+run_uuid: 276608e686764aab9144ec1f1f77e837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712654357911
+status: 3
+tags: []
+user_id: ChetanAnand1
